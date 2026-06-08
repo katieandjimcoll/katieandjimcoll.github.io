@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Locations on Katie &amp; Jim</title>
+    <link>https://katieandjimcoll.github.io/locations/</link>
+    <description>Recent content in Locations on Katie &amp; Jim</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>test@example.com (Web Author)</managingEditor>
+    <webMaster>test@example.com (Web Author)</webMaster>
+    <lastBuildDate>Sun, 06 Sep 2026 11:00:00 +0000</lastBuildDate>
+    <atom:link href="https://katieandjimcoll.github.io/locations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reception at the Pavilion</title>
+      <link>https://katieandjimcoll.github.io/locations/reception/</link>
+      <pubDate>Sun, 06 Sep 2026 11:00:00 +0000</pubDate><author>test@example.com (Web Author)</author>
+      <guid>https://katieandjimcoll.github.io/locations/reception/</guid>
+      <description>&lt;p&gt;Reception, Brunch, Yard games (and maybe some dancing) will be at the pavilion.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ceremony in a Castle</title>
+      <link>https://katieandjimcoll.github.io/locations/ceremony/</link>
+      <pubDate>Sun, 06 Sep 2026 10:00:00 +0000</pubDate><author>test@example.com (Web Author)</author>
+      <guid>https://katieandjimcoll.github.io/locations/ceremony/</guid>
+      <description>&lt;p&gt;We&amp;rsquo;ll have the ceremony in the castle in the center of the park.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

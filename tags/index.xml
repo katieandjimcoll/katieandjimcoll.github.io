@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Katie &amp; Jim</title>
+    <link>https://katieandjimcoll.github.io/tags/</link>
+    <description>Recent content in Tags on Katie &amp; Jim</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>test@example.com (Web Author)</managingEditor>
+    <webMaster>test@example.com (Web Author)</webMaster>
+    <lastBuildDate>Thu, 26 Sep 2024 08:42:20 +1000</lastBuildDate>
+    <atom:link href="https://katieandjimcoll.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing</title>
+      <link>https://katieandjimcoll.github.io/tags/testing/</link>
+      <pubDate>Thu, 26 Sep 2024 08:42:20 +1000</pubDate><author>test@example.com (Web Author)</author>
+      <guid>https://katieandjimcoll.github.io/tags/testing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bible</title>
+      <link>https://katieandjimcoll.github.io/tags/bible/</link>
+      <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate><author>test@example.com (Web Author)</author>
+      <guid>https://katieandjimcoll.github.io/tags/bible/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Historical</title>
+      <link>https://katieandjimcoll.github.io/tags/historical/</link>
+      <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate><author>test@example.com (Web Author)</author>
+      <guid>https://katieandjimcoll.github.io/tags/historical/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scripture</title>
+      <link>https://katieandjimcoll.github.io/tags/scripture/</link>
+      <pubDate>Fri, 11 May 2018 09:06:46 +1000</pubDate><author>test@example.com (Web Author)</author>
+      <guid>https://katieandjimcoll.github.io/tags/scripture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Redemption</title>
+      <link>https://katieandjimcoll.github.io/tags/redemption/</link>
+      <pubDate>Thu, 03 May 2018 20:12:30 +1000</pubDate><author>test@example.com (Web Author)</author>
+      <guid>https://katieandjimcoll.github.io/tags/redemption/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
